@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/20115/CLionProjects/untitled9/ColoredBox.h
+
+C:/Users/20115/CLionProjects/untitled9/main.cpp
+iostream
+-
+windows.h
+-
+ColoredBox.h
+C:/Users/20115/CLionProjects/untitled9/ColoredBox.h
+
