@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Item.cpp
+Item.h
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Item.h
+
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Item.h
+iostream
+-
+
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Seller.cpp
+Seller.h
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Seller.h
+
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Seller.h
+Item.h
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Item.h
+
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/main.cpp
+iostream
+-
+Item.h
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Item.h
+Seller.h
+C:/Users/20115/Desktop/c++_Applications/Shopping-System/Seller.h
+
