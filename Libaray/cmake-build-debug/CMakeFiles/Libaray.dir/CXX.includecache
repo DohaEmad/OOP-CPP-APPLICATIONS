@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/20115/CLionProjects/Libaray/Book.h
+User.h
+C:/Users/20115/CLionProjects/Libaray/User.h
+iostream
+C:/Users/20115/CLionProjects/Libaray/iostream
+string
+C:/Users/20115/CLionProjects/Libaray/string
+
+C:/Users/20115/CLionProjects/Libaray/BookList.h
+Book.h
+C:/Users/20115/CLionProjects/Libaray/Book.h
+
+C:/Users/20115/CLionProjects/Libaray/User.h
+string
+C:/Users/20115/CLionProjects/Libaray/string
+bits.h
+C:/Users/20115/CLionProjects/Libaray/bits.h
+iostream
+C:/Users/20115/CLionProjects/Libaray/iostream
+
+C:/Users/20115/CLionProjects/Libaray/UserList.h
+User.h
+C:/Users/20115/CLionProjects/Libaray/User.h
+
+C:/Users/20115/CLionProjects/Libaray/main.cpp
+User.h
+C:/Users/20115/CLionProjects/Libaray/User.h
+Book.h
+C:/Users/20115/CLionProjects/Libaray/Book.h
+UserList.h
+C:/Users/20115/CLionProjects/Libaray/UserList.h
+BookList.h
+C:/Users/20115/CLionProjects/Libaray/BookList.h
+
